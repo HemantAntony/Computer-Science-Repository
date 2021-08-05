@@ -16,3 +16,5 @@ elif name == "Albin":
     Albin()
 else:
     Hemant()
+print("hello friends")
+print("how are you all")
