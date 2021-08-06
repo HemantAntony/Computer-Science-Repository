@@ -2,7 +2,10 @@ def Alan():
     #Alan complete this
   
 def Albin():
-    #Albin complete this
+    print("Hi guys")
+print("im fine")
+
+  
 
 def Hemant():
 	print("I am Hemant")
