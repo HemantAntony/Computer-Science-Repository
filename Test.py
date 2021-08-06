@@ -21,4 +21,7 @@ else:
     Hemant()
 print("hello friends")
 print("how are you all")
+#welcome friends
+print("enter your name")
+Print("welcome to your project airport management system")
 
