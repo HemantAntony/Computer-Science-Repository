@@ -1,5 +1,7 @@
 def Alan():
     #Alan complete this
+    print("hello friends")
+    print("how are you")
   
 def Albin():
     print("Hi guys")
