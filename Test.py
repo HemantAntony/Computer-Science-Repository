@@ -10,7 +10,6 @@ def Albin():
 def Hemant():
     print("I am Hemant")
     print("How are you?")
-    print("Have a good day!")
 
 
 name = input("Hello, Which function do you want to call?")
