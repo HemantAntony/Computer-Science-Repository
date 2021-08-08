@@ -1,8 +1,8 @@
 def Alan():
-    #Alan complete this 
-    print ("welcome to our project")
-    print("enter your name")
-  
+    #Alan complete this
+    print("hello friends")
+    print("how are you")
+    
 def Albin():
     print("Hi guys")
     print("im fine")
