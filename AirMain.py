@@ -1,3 +1,3 @@
-print("Hello there! Which mode do you want?")
-print("1. Client Mode (c)")
-print("2. Admin Mode (a)")
+print("Hello World")
+print (" welcome to our project")
+print ("which mode u want")
