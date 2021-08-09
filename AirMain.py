@@ -9,5 +9,5 @@ elif answer == 'a':
 else:
   print("Invalid Input")
 
-
+print("Program is about to finish")
 print("Finished")
