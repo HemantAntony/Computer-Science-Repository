@@ -9,6 +9,7 @@ elif answer == 'a':
 else:
   print("Invalid Input")
 
+print("Ok, testing once more: the pull request")
 print("Testing once more")
 print("Program is about to finish")
 print("Finished")
