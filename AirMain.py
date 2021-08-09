@@ -8,3 +8,6 @@ elif answer == 'a':
   print("Admin")
 else:
   print("Invalid Input")
+
+
+print("Finished")
